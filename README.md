@@ -25,13 +25,13 @@ This package is just an easy client for using the UptimeRobot API. Please refer 
 ### Quick usage
 
 ```php
-use Vdhicts\UptimeRobot;
+use Vdhicts\UptimeRobot\Client;
 
 // Load the configuration once, the URL is optional
-$configuration = new UptimeRobot\Configuration('API_KEY', 'OPTIONAL_API_URL');
+$configuration = new Client\Configuration('API_KEY', 'OPTIONAL_API_URL');
 
 // Start the client once
-$client = new UptimeRobot\Client($configuration);
+$client = new Client\Client($configuration);
 
 // Perform the request, returns a string for further processing
 $response = $client->perform('getMonitors', ['monitors' => '15830-32696-83920']);

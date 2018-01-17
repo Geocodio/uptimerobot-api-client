@@ -1,9 +1,9 @@
 <?php
 
-namespace Vdhicts\UptimeRobot\Exceptions;
+namespace Vdhicts\UptimeRobot\Client\Exceptions;
 
 use Throwable;
-use Vdhicts\UptimeRobot\UptimeRobotClientException;
+use Vdhicts\UptimeRobot\Client\UptimeRobotClientException;
 
 class InvalidApiEndpointException extends UptimeRobotClientException
 {

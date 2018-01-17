@@ -14,7 +14,7 @@
     "require-dev": {},
     "autoload": {
         "psr-4": {
-            "Vdhicts\\UptimeRobot\\": "src/"
+            "Vdhicts\\UptimeRobot\\Client\\": "src/"
         }
     }
 }

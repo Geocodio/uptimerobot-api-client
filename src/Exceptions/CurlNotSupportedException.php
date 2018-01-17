@@ -1,8 +1,8 @@
 <?php
 
-namespace Vdhicts\UptimeRobot\Exceptions;
+namespace Vdhicts\UptimeRobot\Client\Exceptions;
 
-use Vdhicts\UptimeRobot\UptimeRobotClientException;
+use Vdhicts\UptimeRobot\Client\UptimeRobotClientException;
 
 class CurlNotSupportedException extends UptimeRobotClientException
 {

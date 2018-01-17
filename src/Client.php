@@ -1,8 +1,8 @@
 <?php
 
-namespace Vdhicts\UptimeRobot;
+namespace Vdhicts\UptimeRobot\Client;
 
-use Vdhicts\UptimeRobot\Exceptions;
+use Vdhicts\UptimeRobot\Client\Exceptions;
 
 class Client
 {

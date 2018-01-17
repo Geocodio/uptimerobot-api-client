@@ -1,6 +1,6 @@
 <?php
 
-namespace Vdhicts\UptimeRobot;
+namespace Vdhicts\UptimeRobot\Client;
 
 use Exception;
 
