@@ -56,3 +56,9 @@ exchange you will be credited as contributor on this page.
 ## License
 
 This package is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
+
+## About vdhicts
+
+[Van der Heiden ICT services](https://www.vdhicts.nl) is the name of my personal company for which I work as 
+freelancer. Van der Heiden ICT services develops and implements IT solutions for businesses and educational 
+institutions.
