@@ -1,5 +1,5 @@
 {
-    "name": "vdhicts/uptimerobot-api-client",
+    "name": "geocodio/uptimerobot-api-client",
     "description": "API client for the API of the UptimeRobot service",
     "license": "MIT",
     "authors": [
